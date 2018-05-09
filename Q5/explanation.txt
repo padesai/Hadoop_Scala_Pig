@@ -1,0 +1,3 @@
+2. Results show coefficient of determination is lower, and all errors are higher when the missing data is not cleaned. Beneficial to clean missing data.
+
+3. The results show improvement with decision forest regression for multiple reasons. Decision trees can represent non-linear decision boundaries. The feature selection is done based on the training data in a unique way. Decision trees are also resilient in the presence of noisy features. Methods like bagging improve performance considerably.  
